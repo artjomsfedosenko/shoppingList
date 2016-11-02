@@ -1,0 +1,4 @@
+Product{name='a', price=2.0, quantity=3.0, group='t'}
+Product{name='b', price=3.0, quantity=4.0, group='y'}
+Product{name='c', price=8.0, quantity=9.0, group='r'}
+Product{name='d', price=2.9, quantity=5.0, group='r'}
